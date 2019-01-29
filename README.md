@@ -20,6 +20,7 @@
 * [List of UI Component Librarys](https://github.com/anubhavsrivastava/awesome-ui-component-library)
 * [Free Responsive Design Blocks](https://www.froala.com/design-blocks)
 * [CodyHouse CSS Component Framework](https://codyhouse.co/)
+* [Can I Use](https://caniuse.com/)
 
 ## Design Tools
 * [Curls Color Palettes](https://culrs.com/#/)
@@ -38,6 +39,8 @@
 * [Modular CSS (BEM)](https://spaceninja.com/2018/09/17/what-is-modular-css/)
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [Single Element CSS Spinners](https://projects.lukehaas.me/css-loaders/)
+* [CoDrops CSS Reference Sheet](https://tympanus.net/codrops/css_reference/)
+* [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
 ## JS
  * [Writing Better Conditionals in JavaScript](https://scotch.io/tutorials/5-tips-to-write-better-conditionals-in-javascript)
