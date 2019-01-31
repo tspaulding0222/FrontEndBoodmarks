@@ -58,6 +58,8 @@
 * [Ultimate Guide to Proper use of Animation](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 * [Designing as a Developer in 2018](https://blog.logrocket.com/designing-as-a-developer-in-2018-eca1ab5bff2)
 * [Little UI Details](https://twitter.com/i/moments/880688233641848832)
+* [Design Charts Part 1](https://uxdesign.cc/designing-charts-principles-every-designer-should-know-5bd3969a0150)
+* [Design Charts Part 2](https://uxdesign.cc/designing-charts-principles-every-designer-should-know-part-2-ce1e06af56fc)
 
 ## Design Inspiration
 * [Maxi Best Of](https://maxibestof.one/app/#/)
