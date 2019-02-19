@@ -27,6 +27,7 @@
 * [Icons8 - Free Icons](https://icons8.com/)
 * [Free Vector Icons](https://www.flaticon.com/)
 * [Free Graphic Resources](https://www.freepik.com/)
+* [List of Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 ## Software
 * [Lunacy (Design Software)](https://icons8.com/lunacy)
