@@ -15,6 +15,7 @@
 * [Online AutoPrefixer](https://autoprefixer.github.io/)
 * [Tiny PNG - Image Compression](https://tinypng.com/)
 * [BrowserStack](https://www.browserstack.com/)
+* [Image Resize](https://promo.com/tools/image-resizer/)
 
 ## Development Tools
 * [List of UI Component Librarys](https://github.com/anubhavsrivastava/awesome-ui-component-library)
