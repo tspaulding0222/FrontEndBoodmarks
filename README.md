@@ -16,7 +16,7 @@
 * [Tiny PNG - Image Compression](https://tinypng.com/)
 * [BrowserStack](https://www.browserstack.com/)
 * [Image Resize](https://promo.com/tools/image-resizer/)
-* [Grid Visual Cheatsheet] (http://grid.malven.co/)
+* [Grid Visual Cheatsheet](http://grid.malven.co/)
 
 ## Development Tools
 * [List of UI Component Librarys](https://github.com/anubhavsrivastava/awesome-ui-component-library)
