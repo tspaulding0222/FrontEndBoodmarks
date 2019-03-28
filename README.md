@@ -30,6 +30,7 @@
 * [Free Vector Icons](https://www.flaticon.com/)
 * [Free Graphic Resources](https://www.freepik.com/)
 * [List of Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+* [UX Design Checklist](https://www.checklist.design)
 
 ## Software
 * [Lunacy (Design Software)](https://icons8.com/lunacy)
